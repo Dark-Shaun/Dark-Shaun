@@ -16,21 +16,19 @@
   
 
 
-## Skills
+#### 👨🏻‍💻 Languages and Tools <br />
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/oracle/oracle.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/sqlite/sqlite.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/aws-glue/aws-glue.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/airflow/airflow.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/aws-s3/aws-s3.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/tensorflow/tensorflow.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/keras/keras.png"></code>
 
-### Programming Languages
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-
-### Database & ETL technologies
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) (MySQL, Oracle, SQLite)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-- ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-- ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-- ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-
-### Deep Learning
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-- ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 
