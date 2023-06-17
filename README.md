@@ -26,7 +26,7 @@
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">](https://www.postgresql.org/)
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">](https://code.visualstudio.com/)
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Figma-logo.svg">](https://www.figma.com/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Swift_logo.svg">](https://developer.apple.com/swift/)
+
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">](https://scikit-learn.org/)
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Oracle_logo.png">](https://www.oracle.com/)
 
