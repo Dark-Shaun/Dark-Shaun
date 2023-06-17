@@ -9,18 +9,19 @@
 
 😄 Pronouns: He / Him
 
-⚽ Fun fact: I once scored a hat-trick in a soccer match while wearing mismatched socks!
+⚽ Fun fact: I once scored a hat trick in a soccer match while wearing mismatched socks!
 
 
 📫 How to reach me: &nbsp;&nbsp;
 
-[![Email](https://img.shields.io/badge/Email-%231DA1F2?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email]([https://img.shields.io/badge/Email-%231DA1F2?style=flat&logo=gmail&logoColor=white)](https://github.com/sciencepal/sciencepal/raw/master/assets/discord-round.svg)](mailto:shaunak111sa@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-name)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-name](https://www.linkedin.com/in/shaunak-alshi-619469186))
 &nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/YourTwitterHandle](https://twitter.com/alshishaunak))
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-%231abc9c?style=flat&logo=web&logoColor=white)](https://your-portfolio-website.com)
 
 
 ## Skills
