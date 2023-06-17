@@ -1,46 +1,35 @@
-<iframe src="index.html" width="100%" height="200px" frameborder="0"></iframe>
+![alt text](./images/top.svg)
 
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
-  - 🔭 Currently researching at CMU
-  - 🌱 Learning about Data Science and Machine Learning
-  - 💬 Ask me about Manchester United, Cricket, Basketball, and any fun fact
-  - 😄 Pronouns: He / Him
-  - ⚽ Fun fact: I once scored a hat trick in a soccer match while wearing mismatched socks!
+I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
 
-📫 How to reach me: &nbsp;&nbsp; 
+<!--
+**sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/iconic_dark/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>]()  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/alshishaunak)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/shaunak-alshi-619469186)  &nbsp;  <a href="mailto:shaunak111sa@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  
+Here are some ideas to get you started:
 
-
-#### 👨🏻‍💻 Languages and Tools
-
-
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">](https://www.python.org/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">](https://www.java.com/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">](https://azure.microsoft.com/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">](https://aws.amazon.com/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">](https://git-scm.com/)
-&nbsp;&nbsp;&nbsp;&nbsp;
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+⚡ Fun fact:
+- 👯 I’m looking to collaborate on projects that are using Python.
+- 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
+- :pencil2: I Write blogs on dev.to on free days.
+- :musical_note: I love to hear country music.
 
 
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
 
-
-
-
-
-
+![alt text](./images/bottom.svg)
