@@ -16,19 +16,22 @@
   
 
 
-#### 👨🏻‍💻 Languages and Tools <br />
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-<img height="40" src="[https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/java/java.png](https://raw.githubusercontent.com/github/explore/master/topics/java/java.png)">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/sql/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/oracle/oracle.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/sqlite/sqlite.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/mongodb/mongodb.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/aws-glue/aws-glue.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/airflow/airflow.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/aws-s3/aws-s3.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/tensorflow/tensorflow.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/keras/keras.png"></code>
+#### 👨🏻‍💻 Languages and Tools
+
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">](https://www.python.org/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">](https://www.java.com/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">](https://en.wikipedia.org/wiki/SQL)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/en/6/62/MySQL.svg">](https://www.mysql.com/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg">](https://www.oracle.com/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">](https://www.sqlite.org/index.html)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">](https://www.mongodb.com/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/AWSGlue-Logo.svg">](https://aws.amazon.com/glue/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Apache_Airflow_Logo.svg">](https://airflow.apache.org/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/AWS_Simple_Storage_Service_S3_Logo.svg">](https://aws.amazon.com/s3/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">](https://www.tensorflow.org/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">](https://keras.io/)
+
+
 
 
 
