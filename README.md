@@ -1,6 +1,5 @@
-###  <div id="hello"> Hello </div>!  <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/Hi.gif" width="29px">
-  ![](https://komarev.com/ghpvc/?username=sciencepal&label=Profile%20Visits&color=blue&style=for-the-badge)
- 
+```javascript
+<div id="hello"></div>
 
 <script>
   const languages = ['English', 'Spanish', 'French', 'German'];
