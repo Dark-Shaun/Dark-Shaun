@@ -24,8 +24,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let me give you a g
 ## Skills
 
 ### Programming Languages
--![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
--![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ### Database & ETL technologies
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) (MySQL, Oracle, SQLite)
@@ -38,11 +38,6 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let me give you a g
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 - ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
-## About Me
-
-I am a passionate developer with a strong interest in leveraging cutting-edge technologies to build innovative solutions. I have experience working with Python, Java, SQL databases, MongoDB, and AWS Glue. I also have a keen interest in deep learning using TensorFlow and Keras.
-
-Feel free to explore my GitHub repositories to see my projects and contributions. If you have any questions or would like to collaborate, don't hesitate to reach out!
 
 ## Projects and Dev Stuffs:
 ⚡ **Github Stats**
