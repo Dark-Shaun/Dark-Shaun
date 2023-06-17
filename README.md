@@ -7,12 +7,14 @@
 😄 Pronouns: He / Him
 ⚡ Fun fact: My name is an anagram of "I Play Data"
 
-📫 How to reach me:
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your-name)
-- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- 🌐 Portfolio: [your-portfolio-website.com](https://your-portfolio-website.com)
-
+📫 How to reach me: &nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-%231DA1F2?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-name)
+&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-%231abc9c?style=flat&logo=web&logoColor=white)](https://your-portfolio-website.com)
 
 ## Skills
 
