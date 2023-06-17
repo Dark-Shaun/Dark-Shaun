@@ -1,10 +1,7 @@
-# say_hello() 👋, I'm Shaunak!
+# Hello👋, I'm Shaunak!
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shaunak-profile)
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle)](https://www.kaggle.com/shaunak-profile)
-[![Website Badge](https://img.shields.io/badge/Portfolio-Visit-1abc9c?logo=web)](https://shaunak-portfolio-website.com)
-[![Blogs Badge](https://img.shields.io/badge/Blogs-Read-FF5722?logo=blogger)](https://shaunak-blog-website.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram)](https://www.instagram.com/shaunak-profile)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/shaunak-profile](https://www.linkedin.com/in/shaunak-alshi-619469186))
+[![Twitter Badge](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=twitter)]([https://www.instagram.com/shaunak-profile](https://twitter.com/alshishaunak))
 
 🔭 Currently researching with CMU
 🌱 Learning about Data Science and Machine Learning
@@ -37,26 +34,3 @@
 ⚙️ **Things I use to get stuff done**
 - Name of the tool or technology you use
 - Name of the tool or technology you use
-
-
-import random
-
-languages = ["English", "Spanish", "French", "German", "Italian", "Japanese"]
-
-def say_hello():
-    language = random.choice(languages)
-    
-    if language == "English":
-        print("Hello!")
-    elif language == "Spanish":
-        print("¡Hola!")
-    elif language == "French":
-        print("Bonjour !")
-    elif language == "German":
-        print("Hallo!")
-    elif language == "Italian":
-        print("Ciao!")
-    elif language == "Japanese":
-        print("こんにちは！")
-
-# Call the function to print a random "Hello" in different languages
