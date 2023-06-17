@@ -19,16 +19,16 @@
 #### 👨🏻‍💻 Languages and Tools
 
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">](https://www.python.org/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">](https://www.java.com/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">](https://en.wikipedia.org/wiki/SQL)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/MySQL_Logo.png">](https://www.mysql.com/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">](https://www.sqlite.org/index.html)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">](https://www.mongodb.com/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/AWSGlue-Logo.svg">](https://aws.amazon.com/glue/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Apache_Airflow_Logo.svg">](https://airflow.apache.org/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/AWS_Simple_Storage_Service_S3_Logo.svg">](https://aws.amazon.com/s3/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">](https://www.tensorflow.org/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">](https://keras.io/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">](https://www.r-project.org/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">](https://git-scm.com/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">](https://www.php.net/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">](https://aws.amazon.com/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">](https://www.postgresql.org/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">](https://code.visualstudio.com/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Figma-logo.svg">](https://www.figma.com/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Swift_logo.svg">](https://developer.apple.com/swift/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">](https://scikit-learn.org/)
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Oracle_logo.png">](https://www.oracle.com/)
 
 
 
