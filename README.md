@@ -14,7 +14,7 @@
 
 📫 How to reach me: &nbsp;&nbsp;
 
-[![Email]([https://img.shields.io/badge/Email-%231DA1F2?style=flat&logo=gmail&logoColor=white)](https://github.com/sciencepal/sciencepal/raw/master/assets/discord-round.svg)](mailto:shaunak111sa@gmail.com)
+[![Email]([[https://img.shields.io/badge/Email-%231DA1F2?style=flat&logo=gmail&logoColor=white](https://camo.githubusercontent.com/3519e704bfa3608c44bb981d63331e5163bd0a3bf0ab5fbfbda3a51ada1586a2/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f676d61696c2e706e67))](https://github.com/sciencepal/sciencepal/raw/master/assets/discord-round.svg)](mailto:shaunak111sa@gmail.com)
 &nbsp;&nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-name](https://www.linkedin.com/in/shaunak-alshi-619469186))
