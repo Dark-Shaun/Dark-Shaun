@@ -18,13 +18,20 @@
 
 #### 👨🏻‍💻 Languages and Tools
 
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">](https://www.python.org/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">](https://git-scm.com/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">](https://www.php.net/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">](https://aws.amazon.com/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">](https://www.postgresql.org/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">](https://code.visualstudio.com/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">](https://scikit-learn.org/)
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/oracle/oracle.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sqlite/sqlite.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/aws-glue/aws-glue.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/airflow/airflow.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/aws-s3/aws-s3.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/keras/keras.png">
+
+
 
 
 
