@@ -18,7 +18,7 @@
 
 #### 👨🏻‍💻 Languages and Tools <br />
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/java/java.png"></code>
+<img height="40" src="[https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/java/java.png](https://raw.githubusercontent.com/github/explore/master/topics/java/java.png)">
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/sql/sql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5e02b0a42125950dd5a3e2a3fe8a5bb6b1a8b9f3/topics/oracle/oracle.png"></code>
