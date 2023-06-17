@@ -21,9 +21,28 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let me give you a g
 
 🏐 Beyond the Code: When I'm not immersed in coding, you'll likely find me on the basketball court, enjoying the game and staying active. It's my way of finding balance and fueling my creativity.
 
+## Skills
 
-## Languages and Tools:
-python javascript nodejs expressjs react sql mongodb git terminal
+### Programming Languages
+-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+
+### Database & ETL technologies
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) (MySQL, Oracle, SQLite)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- ![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+- ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+- ![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
+
+### Deep Learning
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+
+## About Me
+
+I am a passionate developer with a strong interest in leveraging cutting-edge technologies to build innovative solutions. I have experience working with Python, Java, SQL databases, MongoDB, and AWS Glue. I also have a keen interest in deep learning using TensorFlow and Keras.
+
+Feel free to explore my GitHub repositories to see my projects and contributions. If you have any questions or would like to collaborate, don't hesitate to reach out!
 
 ## Projects and Dev Stuffs:
 ⚡ **Github Stats**
