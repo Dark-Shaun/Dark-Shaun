@@ -1,27 +1,26 @@
-<h1 align="center">Hi 👋, I'm Shaunak </h1>
-<h3 align="center">There is no place like 127.0.0.1</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="40"
+         width="40" />, I'm Shaunak </h1>
+         
+<div> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codefreak69&label=Profile%20views&color=0e75b6&style=flat" alt="codefreak69" /> </p>
-
-
-<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
-  - 🔭 Currently researching at CMU
-  - 🌱 Learning about Data Science and Machine Learning
+<img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6" alt="side Gif" align="right" width="400" height="auto"/> </a>
+   ### 👨🏻‍💻 About Me
+  - 🔭 Currently researching at **CMU**
+  - 🌱  Currently exploring the realms of Data Science and Machine Learning.
+  - Enthusiastic about building innovative and impactful solutions.
   - 💬 Ask me about Manchester United, Cricket, Basketball, and any fun fact
   - 😄 Pronouns: He / Him
   - ⚽ Fun fact: I once scored a hat trick in a soccer match while wearing mismatched socks!
 
-📫 How to reach me: &nbsp;&nbsp; 
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/iconic_dark/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>]()  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/alshishaunak)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/shaunak-alshi-619469186)  &nbsp;  <a href="mailto:shaunak111sa@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  
+</div>
 
+<br style="clear: both;" />
+<div align="center">
 
-#### 👨🏻‍💻 Languages and Tools
-
-
+#### 👨🏻‍💻 **Languages and Tools**
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">](https://www.python.org/)
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">](https://www.java.com/)
@@ -40,4 +39,23 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">](https://git-scm.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
+
+
+<br style="clear: both;" />
+
+
+
+<div align="center"> 
+  
+📫 **How to reach me:** &nbsp;&nbsp; 
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/iconic_dark/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>]()  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/alshishaunak)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/shaunak-alshi-619469186)  &nbsp;  <a href="mailto:shaunak111sa@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+
+
+</div>
+
+
 
