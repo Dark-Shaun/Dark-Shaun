@@ -24,8 +24,6 @@
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">](https://aws.amazon.com/)
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">](https://www.postgresql.org/)
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">](https://code.visualstudio.com/)
-
-
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">](https://scikit-learn.org/)
 
 
