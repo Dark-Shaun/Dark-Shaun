@@ -19,15 +19,22 @@
 #### 👨🏻‍💻 Languages and Tools
 
 
-
-
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">](https://www.python.org/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">](https://git-scm.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">](https://www.php.net/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">](https://aws.amazon.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">](https://www.postgresql.org/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">](https://code.visualstudio.com/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">](https://scikit-learn.org/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">](https://www.java.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/TensorFlowLogo.svg">](https://www.tensorflow.org/)
+
 
 
 
