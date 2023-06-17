@@ -27,15 +27,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">](https://aws.amazon.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">](https://www.postgresql.org/)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">](https://code.visualstudio.com/)
-&nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">](https://git-scm.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/deep-learning/deep-learning.png">](https://en.wikipedia.org/wiki/Deep_learning)
-
-
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="40" src="https://logos-download.com/wp-content/uploads/2016/10/MongoDB_Logo.png">
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
