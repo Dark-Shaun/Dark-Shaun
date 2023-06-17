@@ -27,16 +27,16 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">](https://aws.amazon.com/)
 &nbsp;&nbsp;&nbsp;&nbsp;
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">](https://git-scm.com/)
-&nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img height="40" src="https://logos-download.com/wp-content/uploads/2016/10/MongoDB_Logo.png">
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 &nbsp;&nbsp;&nbsp;&nbsp;
-
-
+<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
+&nbsp;&nbsp;&nbsp;&nbsp;
+[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">](https://git-scm.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
