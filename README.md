@@ -8,6 +8,7 @@
 ⚡ Fun fact: My name is an anagram of "I Play Data"
 
 📫 How to reach me: &nbsp;&nbsp;
+
 [![Email](https://img.shields.io/badge/Email-%231DA1F2?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-name)
