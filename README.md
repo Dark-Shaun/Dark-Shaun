@@ -2,10 +2,15 @@
 
 
 🔭 Currently researching with CMU
+
 🌱 Learning about Data Science and Machine Learning
+
 💬 Ask me about Manchester United, Cricket, Basketball, and any fun fact
+
 😄 Pronouns: He / Him
-⚡ Fun fact: My name is an anagram of "I Play Data"
+
+⚽ Fun fact: I once scored a hat-trick in a soccer match while wearing mismatched socks!
+
 
 📫 How to reach me: &nbsp;&nbsp;
 
@@ -16,6 +21,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterHandle)
 &nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-%231abc9c?style=flat&logo=web&logoColor=white)](https://your-portfolio-website.com)
+
 
 ## Skills
 
@@ -35,10 +41,3 @@
 - ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 
-## Projects and Dev Stuffs:
-⚡ **Github Stats**
-![Your Github Stats](https://github-readme-stats.vercel.app/api?username=shaunak-profile&show_icons=true&hide_border=true)
-
-⚙️ **Things I use to get stuff done**
-- Name of the tool or technology you use
-- Name of the tool or technology you use
