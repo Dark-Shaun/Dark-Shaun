@@ -1,4 +1,4 @@
-# Hey 👋, I'm Shaunak!
+# say_hello() 👋, I'm Shaunak!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/shaunak-profile)
 [![Kaggle Badge](https://img.shields.io/badge/Kaggle-Profile-20BEFF?logo=kaggle)](https://www.kaggle.com/shaunak-profile)
@@ -6,20 +6,11 @@
 [![Blogs Badge](https://img.shields.io/badge/Blogs-Read-FF5722?logo=blogger)](https://shaunak-blog-website.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram)](https://www.instagram.com/shaunak-profile)
 
-Hey there, I'm Shaunak! 👋
-Welcome to my GitHub profile! I'm thrilled to have you here. Let me give you a glimpse into my world of web development and artificial intelligence.
-
-🚀 Passion for Web Development and AI: I'm deeply fascinated by the endless possibilities that web development and artificial intelligence offer. It's the perfect blend of creativity and problem-solving that keeps me driven and excited.
-
-👨🏻‍💻 Active GitHub Contributor: You'll find my projects and contributions right here on GitHub. I love sharing my work and collaborating with like-minded individuals. Feel free to explore and engage with my projects!
-
-💬 Open to Collaborations: I believe in the power of collaboration and the magic that happens when minds come together. If you have any ideas, questions, or simply want to discuss exciting possibilities, don't hesitate to reach out. Let's create something amazing together!
-
-📫 Get in Touch: If you want to connect, you can reach me at shaunak@example.com. I'm always eager to connect with fellow developers, enthusiasts, and potential collaborators.
-
-💻 Exploring Tech and Innovating: My passion lies in continuously exploring new technologies and pushing the boundaries of what's possible. I thrive on building innovative applications that solve real-world problems and create meaningful experiences.
-
-🏐 Beyond the Code: When I'm not immersed in coding, you'll likely find me on the basketball court, enjoying the game and staying active. It's my way of finding balance and fueling my creativity.
+🔭 Currently researching with CMU
+🌱 Learning about Data Science and Machine Learning
+💬 Ask me about Manchester United, Cricket, Basketball, and any fun fact
+😄 Pronouns: He / Him
+⚡ Fun fact: My name is an anagram of "I Play Data"
 
 ## Skills
 
@@ -46,3 +37,26 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let me give you a g
 ⚙️ **Things I use to get stuff done**
 - Name of the tool or technology you use
 - Name of the tool or technology you use
+
+
+import random
+
+languages = ["English", "Spanish", "French", "German", "Italian", "Japanese"]
+
+def say_hello():
+    language = random.choice(languages)
+    
+    if language == "English":
+        print("Hello!")
+    elif language == "Spanish":
+        print("¡Hola!")
+    elif language == "French":
+        print("Bonjour !")
+    elif language == "German":
+        print("Hallo!")
+    elif language == "Italian":
+        print("Ciao!")
+    elif language == "Japanese":
+        print("こんにちは！")
+
+# Call the function to print a random "Hello" in different languages
