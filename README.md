@@ -1,7 +1,11 @@
-### Hi there 👋, I am [Shaunak](https://github.com/Dark-Shaun)! 😁
+<h1 align="center">Hi 👋, I'm Shaunak </h1>
+<h3 align="center">There is no place like 127.0.0.1</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codefreak69&label=Profile%20views&color=0e75b6&style=flat" alt="codefreak69" /> </p>
+
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
-<a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<a href="https://ko-fi.com/sciencepal"> <img src="https://media.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
   
   - 🔭 Currently researching at CMU
   - 🌱 Learning about Data Science and Machine Learning
