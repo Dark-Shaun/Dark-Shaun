@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Greeting App</title>
+</head>
+<body>
+  <div id="hello"></div>
+
+  <script>
+    const languages = ['English', 'Spanish', 'French', 'German'];
+    let currentLanguage = 0;
+
+    setInterval(() => {
+      document.getElementById('hello').innerText = `Hello (${languages[currentLanguage]})`;
+      currentLanguage = (currentLanguage + 1) % languages.length;
+    }, 3000);
+  </script>
+</body>
+</html>
