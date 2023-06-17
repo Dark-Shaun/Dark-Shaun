@@ -1,13 +1,18 @@
 # Hello👋, I'm Shaunak!
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/shaunak-profile](https://www.linkedin.com/in/shaunak-alshi-619469186))
-[![Twitter Badge](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=twitter)]([https://www.instagram.com/shaunak-profile](https://twitter.com/alshishaunak))
 
 🔭 Currently researching with CMU
 🌱 Learning about Data Science and Machine Learning
 💬 Ask me about Manchester United, Cricket, Basketball, and any fun fact
 😄 Pronouns: He / Him
 ⚡ Fun fact: My name is an anagram of "I Play Data"
+
+📫 How to reach me:
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 💼 LinkedIn: [Your Name](https://www.linkedin.com/in/your-name)
+- 🐦 Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- 🌐 Portfolio: [your-portfolio-website.com](https://your-portfolio-website.com)
+
 
 ## Skills
 
