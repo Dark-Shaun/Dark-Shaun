@@ -21,8 +21,7 @@
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/en/6/62/MySQL.svg">
-<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg">
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/62/MySQL.svg">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/AWSGlue-Logo.svg">
@@ -30,6 +29,7 @@
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/AWS_Simple_Storage_Service_S3_Logo.svg">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
+
 
 
 
