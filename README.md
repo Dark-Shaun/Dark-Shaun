@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Let me give you a g
 
 ### Deep Learning
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
--![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+- ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
 ## About Me
 
