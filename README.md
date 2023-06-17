@@ -19,7 +19,6 @@
 #### 👨🏻‍💻 Languages and Tools
 
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">](https://www.python.org/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">](https://www.r-project.org/)
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">](https://git-scm.com/)
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">](https://www.php.net/)
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">](https://aws.amazon.com/)
@@ -28,7 +27,7 @@
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Figma-logo.svg">](https://www.figma.com/)
 
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">](https://scikit-learn.org/)
-[<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/69/Oracle_logo.png">](https://www.oracle.com/)
+
 
 
 
