@@ -1,15 +1,16 @@
-```javascript
-<div id="hello"></div>
+<iframe src="index.html" width="100%" height="200px" frameborder="0"></iframe>
 
-<script>
-  const languages = ['English', 'Spanish', 'French', 'German'];
-  let currentLanguage = 0;
+  <div id="hello"></div>
+  <script>
+    const languages = ['English', 'Spanish', 'French', 'German'];
+    let currentLanguage = 0;
 
-  setInterval(() => {
-    document.getElementById('hello').innerText = `Hello (${languages[currentLanguage]})`;
-    currentLanguage = (currentLanguage + 1) % languages.length;
-  }, 3000);
-</script>
+    setInterval(() => {
+      document.getElementById('hello').innerText = `Hello (${languages[currentLanguage]})`;
+      currentLanguage = (currentLanguage + 1) % languages.length;
+    }, 3000);
+  </script>
+
 
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <a href="https://ko-fi.com/sciencepal"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
