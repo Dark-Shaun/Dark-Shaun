@@ -13,6 +13,8 @@
   - 💬 Ask me about Manchester United, Cricket, Basketball, and any fun fact
   - 😄 Pronouns: He / Him
   - ⚽ Fun fact: I once scored a hat trick in a soccer match while wearing mismatched socks!
+  - 💻 Developed multiple internal software solutions to drive efficiency and growth for a startup
+
 
 
 </div>
