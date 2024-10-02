@@ -61,12 +61,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Shaun&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-### 🏆 Badges
-<div align="center">
-  ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dark-Shaun&theme=github_dark)
-  ![Certifications](https://img.shields.io/badge/Certification-YourCertification-blue)
-  ![Skill Level](https://img.shields.io/badge/Skill%20Level-Intermediate-yellowgreen)
-</div>
 
 ### 🔄 Interactive Elements
 
