@@ -15,11 +15,10 @@
   - ⚽ Fun fact: I once scored a hat trick in a soccer match while wearing mismatched socks!
   - 💻 Developed multiple internal software solutions to drive efficiency and growth for a startup (Renuka Pharma)
 
-
-
 </div>
 
 <br style="clear: both;" />
+
 <div align="center">
 
 #### 👨🏻‍💻 **Languages and Tools**
@@ -44,11 +43,7 @@
 
 </div>
 
-
-
 <br style="clear: both;" />
-
-
 
 <div align="center"> 
   
@@ -56,8 +51,41 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](https://steamcommunity.com/id/iconic_dark/)  &nbsp; [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>]()  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/alshishaunak)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/shaunak-alshi-619469186)  &nbsp;  <a href="mailto:shaunak111sa@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-
 </div>
 
+<br />
 
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dark-Shaun&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-Shaun&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
+### 🏆 Badges
+<div align="center">
+  ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dark-Shaun&theme=github_dark)
+  ![Certifications](https://img.shields.io/badge/Certification-YourCertification-blue)
+  ![Skill Level](https://img.shields.io/badge/Skill%20Level-Intermediate-yellowgreen)
+</div>
+
+### 🔄 Interactive Elements
+
+#### 🗳️ Poll
+What topic are you most interested in?
+- [ ] Data Science
+- [ ] Machine Learning
+- [ ] Software Development
+- [ ] Other
+
+#### ❓ Quiz
+**Question: What is my favorite football club?**
+- A) Arsenal
+- B) Manchester United
+- C) Chelsea
+- D) Liverpool
+
+**Answer:** B) Manchester United
+
+--
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
