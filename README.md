@@ -62,24 +62,6 @@
 </div>
 
 
-### 🔄 Interactive Elements
-
-#### 🗳️ Poll
-What topic are you most interested in?
-- [ ] Data Science
-- [ ] Machine Learning
-- [ ] Software Development
-- [ ] Other
-
-#### ❓ Quiz
-**Question: What is my favorite football club?**
-- A) Arsenal
-- B) Manchester United
-- C) Chelsea
-- D) Liverpool
-
-**Answer:** B) Manchester United
-
 --
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
